@@ -58,12 +58,12 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**InfoPath → Power Apps Modernization**](https://github.com/cpreddy15/infopath-to-powerapps-modernization) | Rebuilding InfoPath rules, validations and repeating sections in Power Fx; replacing SharePoint Designer workflows with flows | Power Apps, Power Automate, SharePoint |
-| [**Delegation & Performance Patterns**](https://github.com/cpreddy15/powerapps-delegation-performance-patterns) | Delegation-safe search over 10,000+ item lists; OnStart optimization that cut load time from ~12s to ~4s | Power Apps, Power Fx, SharePoint |
-| [**Dataverse Case Management**](https://github.com/cpreddy15/dataverse-case-management) | 10-table Dataverse model with relationships and security roles for a model-driven case-tracking app | Dataverse, Model-driven Apps |
-| [**Custom Connector Sample**](https://github.com/cpreddy15/powerplatform-custom-connector) | OpenAPI-based custom connector that removes manual data entry | Custom Connectors, REST, Power Apps |
-| [**Copilot Studio HR & IT Agent**](https://github.com/cpreddy15/copilot-studio-hr-it-agent) | Policy / HR / IT Q&A agent grounded in SharePoint content | Copilot Studio, SharePoint, Power Automate |
-| [**Power Platform ALM Pipelines**](https://github.com/cpreddy15/powerplatform-alm-pipelines) | Dev → Test → Prod with managed solutions, environment variables and connection references | Azure DevOps, GitHub Actions, PAC CLI |
+| [**InfoPath → Power Apps Modernization**](https://github.com/cpreddy15/repos-infopath-to-powerapps-modernization) | Rebuilding InfoPath rules, validations and repeating sections in Power Fx; replacing SharePoint Designer workflows with flows | Power Apps, Power Automate, SharePoint |
+| [**Delegation & Performance Patterns**](https://github.com/cpreddy15/repos-powerapps-delegation-performance-patterns) | Delegation-safe search over 10,000+ item lists; OnStart optimization that cut load time from ~12s to ~4s | Power Apps, Power Fx, SharePoint |
+| [**Dataverse Case Management**](https://github.com/cpreddy15/repos-dataverse-case-management) | 10-table Dataverse model with relationships and security roles for a model-driven case-tracking app | Dataverse, Model-driven Apps |
+| [**Custom Connector Sample**](https://github.com/cpreddy15/repos-powerplatform-custom-connector) | OpenAPI-based custom connector that removes manual data entry | Custom Connectors, REST, Power Apps |
+| [**Copilot Studio HR & IT Agent**](https://github.com/cpreddy15/repos-copilot-studio-hr-it-agent) | Policy / HR / IT Q&A agent grounded in SharePoint content | Copilot Studio, SharePoint, Power Automate |
+| [**Power Platform ALM Pipelines**](https://github.com/cpreddy15/repos-powerplatform-alm-pipelines) | Dev → Test → Prod with managed solutions, environment variables and connection references | Azure DevOps, GitHub Actions, PAC CLI |
 
 > All repositories use **sample data and re-created demo solutions**. No client code or data is published.
 
