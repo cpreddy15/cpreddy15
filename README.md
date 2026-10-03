@@ -58,12 +58,12 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**InfoPath → Power Apps Modernization**](https://github.com/pavan-reddy-cheedeti/infopath-to-powerapps-modernization) | Rebuilding InfoPath rules, validations and repeating sections in Power Fx; replacing SharePoint Designer workflows with flows | Power Apps, Power Automate, SharePoint |
-| [**Delegation & Performance Patterns**](https://github.com/pavan-reddy-cheedeti/powerapps-delegation-performance-patterns) | Delegation-safe search over 10,000+ item lists; OnStart optimization that cut load time from ~12s to ~4s | Power Apps, Power Fx, SharePoint |
-| [**Dataverse Case Management**](https://github.com/pavan-reddy-cheedeti/dataverse-case-management) | 10-table Dataverse model with relationships and security roles for a model-driven case-tracking app | Dataverse, Model-driven Apps |
-| [**Custom Connector Sample**](https://github.com/pavan-reddy-cheedeti/powerplatform-custom-connector) | OpenAPI-based custom connector that removes manual data entry | Custom Connectors, REST, Power Apps |
-| [**Copilot Studio HR & IT Agent**](https://github.com/pavan-reddy-cheedeti/copilot-studio-hr-it-agent) | Policy / HR / IT Q&A agent grounded in SharePoint content | Copilot Studio, SharePoint, Power Automate |
-| [**Power Platform ALM Pipelines**](https://github.com/pavan-reddy-cheedeti/powerplatform-alm-pipelines) | Dev → Test → Prod with managed solutions, environment variables and connection references | Azure DevOps, GitHub Actions, PAC CLI |
+| [**InfoPath → Power Apps Modernization**](https://github.com/cpreddy15/infopath-to-powerapps-modernization) | Rebuilding InfoPath rules, validations and repeating sections in Power Fx; replacing SharePoint Designer workflows with flows | Power Apps, Power Automate, SharePoint |
+| [**Delegation & Performance Patterns**](https://github.com/cpreddy15/powerapps-delegation-performance-patterns) | Delegation-safe search over 10,000+ item lists; OnStart optimization that cut load time from ~12s to ~4s | Power Apps, Power Fx, SharePoint |
+| [**Dataverse Case Management**](https://github.com/cpreddy15/dataverse-case-management) | 10-table Dataverse model with relationships and security roles for a model-driven case-tracking app | Dataverse, Model-driven Apps |
+| [**Custom Connector Sample**](https://github.com/cpreddy15/powerplatform-custom-connector) | OpenAPI-based custom connector that removes manual data entry | Custom Connectors, REST, Power Apps |
+| [**Copilot Studio HR & IT Agent**](https://github.com/cpreddy15/copilot-studio-hr-it-agent) | Policy / HR / IT Q&A agent grounded in SharePoint content | Copilot Studio, SharePoint, Power Automate |
+| [**Power Platform ALM Pipelines**](https://github.com/cpreddy15/powerplatform-alm-pipelines) | Dev → Test → Prod with managed solutions, environment variables and connection references | Azure DevOps, GitHub Actions, PAC CLI |
 
 > All repositories use **sample data and re-created demo solutions**. No client code or data is published.
 
@@ -85,8 +85,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavan-reddy-cheedeti&show_icons=true&hide_border=true&title_color=742774&icon_color=742774" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=pavan-reddy-cheedeti&hide_border=true&ring=742774&fire=742774&currStreakLabel=742774" alt="GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cpreedy15&show_icons=true&hide_border=true&title_color=742774&icon_color=742774" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=cpreddy15&hide_border=true&ring=742774&fire=742774&currStreakLabel=742774" alt="GitHub streak"/>
 </p>
 
 ---
