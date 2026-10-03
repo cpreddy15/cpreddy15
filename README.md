@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pavan Reddy Cheedeti 👋</h1>
+<h1 align="center">Hi, I'm Pavan Reddy Ch 👋</h1>
 <h3 align="center">Power Platform Developer · Power Apps · Power Automate · Dataverse · SharePoint Online · Copilot Studio</h3>
 
 <p align="center">
