@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cpreedy15&show_icons=true&hide_border=true&title_color=742774&icon_color=742774" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cpreddy15&show_icons=true&hide_border=true&title_color=742774&icon_color=742774" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=cpreddy15&hide_border=true&ring=742774&fire=742774&currStreakLabel=742774" alt="GitHub streak"/>
 </p>
 
